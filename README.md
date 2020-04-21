@@ -14,3 +14,5 @@ Breadboard,
 10k Resistor x4, 
 PCB Board,  and 
 1Hz Pulse Generator
+
+For Connections refer: https://drive.google.com/open?id=1mNYJBJOXY96ol_4W5ynwwxdZqjkoLp9rZIVUZyh0Qp0
